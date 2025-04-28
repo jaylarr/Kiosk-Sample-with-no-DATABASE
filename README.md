@@ -1,0 +1,1 @@
+# Kiosk-Sample-with-no-DATABASE
